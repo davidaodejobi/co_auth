@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696792132340",
+    "project_id": "co-authified-david-hunt",
+    "storage_bucket": "co-authified-david-hunt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696792132340:android:4aabe53538e96c8da10ca1",
+        "android_client_info": {
+          "package_name": "coauthifieddavido.co_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696792132340-2smoisjc4nhfpdtg611m6ptrh4tg7831.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOhlUMJqcCZSYgwCLlH3Zsu4caf_9Rqn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696792132340-2smoisjc4nhfpdtg611m6ptrh4tg7831.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
